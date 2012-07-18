@@ -1,0 +1,1 @@
+gcc -I /usr/include/python2.7 -lpython2.7 embed.cpp 
